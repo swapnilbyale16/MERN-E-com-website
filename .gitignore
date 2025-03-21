@@ -134,3 +134,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+package-lock.json
+bkend/package.json
+ftend/package.json
+ftend/my-app/package.json
